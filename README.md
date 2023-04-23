@@ -1,4 +1,4 @@
-# vue-resume
+# vue3-personal-resume
 
 ## Project setup
 ```
@@ -15,10 +15,13 @@ yarn serve
 yarn build
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
+# 简简单单的个人简历项目
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 与本项目有关的技术
+
+- vue3
+- vue-router
+- webpack
+- stylus
+- babel
+- axios
